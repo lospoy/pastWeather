@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "pastWeather",
-    "slug": "pastWeather"
+    "name": "jobsift",
+    "slug": "jobsift"
   }
 }
